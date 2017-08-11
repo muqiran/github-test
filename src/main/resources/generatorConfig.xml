@@ -33,5 +33,7 @@
         </table>
         <table tableName="order">
         </table>
+        <table tableName="category">
+        </table>
     </context>
 </generatorConfiguration>
